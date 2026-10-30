@@ -1,0 +1,1 @@
+{"name":"equity-research-lab","private":true,"version":"4.0.0","scripts":{"test":"node --test tests/*.cjs"},"devDependencies":{"@xmldom/xmldom":"^0.8.11"}}
